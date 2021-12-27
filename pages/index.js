@@ -14,7 +14,12 @@ export default function Home() {
         <Header title="Welcome to my app!" />
         <p className="description">
           Get started by editing <code>pages/index.js</code>
-          <a href="/images/hector_one.jpg" />
+          <img
+            src="/images/hector_one.jpg"
+            alt="Hector needs a poo"
+            width="500"
+            height="600"
+          ></img>
         </p>
       </main>
 
