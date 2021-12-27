@@ -11,9 +11,8 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Hector's Groovy Website!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
           <img
             src="/hector_one.jpeg"
             alt="Hector needs a pood"
