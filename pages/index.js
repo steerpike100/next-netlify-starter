@@ -6,10 +6,10 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
+        <link rel="stylesheet" href="/styles/globals.css" />
         <title>Next.js Starter!</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-
       <main>
         <Header title="Hector's Groovy Website!" />
         <p className="description">
@@ -22,7 +22,6 @@ export default function Home() {
         </p>
         <body></body>
       </main>
-
       <Footer />
     </div>
   );
