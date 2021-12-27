@@ -15,8 +15,8 @@ export default function Home() {
         <p className="description">
           Get started by editing <code>pages/index.js</code>
           <img
-            src="images/hector_one.jpg"
-            alt="Hector needs a poo"
+            src="images/hector_one.jpeg"
+            alt="Hector needs a pood"
             width="500"
             height="600"
           ></img>
